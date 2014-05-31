@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bildschirmrekorder</string>
+
+    <string name="notification_recording_title">Bildschirmaufnahme aktiv</string>
+
+    <string name="notification_recording_finished_title">Bildschirmaufnahme gespeichert</string>
+    <string name="notification_recording_finished_text">Aufnahme %s ansehen</string>
+
+    <string name="notification_recording_error_title">Fehler Bildschirmrekorder</string>
+    <string name="notification_recording_error_text">%s</string>
+
+    <string name="notification_video_processing_title">Verarbeite Bildschirmaufnahme</string>
+
+    <string name="notification_action_stop_recording">Aufnahme abbrechen</string>
+    <string name="notification_action_show_touch">Berührungen anzeigen</string>
+
+    <string name="error_unable_to_create_directory">Ausgabeverzeichnis kann nicht erstellt werden.</string>
+    <string name="error_external_storage_unavailable">Kein externes Laufwerk verfügbar.</string>
+    <string name="error_unable_to_start">Aufnahme kann nicht gestartet werden.</string>
+
+</resources>
