@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">ScreenRecorder</string>
-
-    <string name="notification_recording_title">Η καταγραφή οθόνης βρίσκεται σε εξέλιξη</string>
-
-    <string name="notification_recording_finished_title">Η καταγραφή αποθηκεύτηκε</string>
-    <string name="notification_recording_finished_text">Πατήστε για να δείτε %s</string>
-
-    <string name="notification_recording_error_title">Σφάλμα</string>
-    <string name="notification_recording_error_text">%s</string>
-
-    <string name="error_unable_to_create_directory">Δεν ήταν δυνατή η δημιουργία φακέλου αποθήκευσης.</string>
-    <string name="error_external_storage_unavailable">Δεν υπάρχει εξωτερικός χώρος αποθήκευσης.</string>
-    <string name="error_unable_to_start">Δεν είναι δυνατή η εκκίνηση της καταγραφής.</string>
+  <string name="app_name">Καταγραφέας οθόνης</string>
+  <string name="notification_recording_title">Καταγραφή οθόνης σε εξέλιξη</string>
+  <string name="notification_recording_finished_title">Η καταγραφή σώθηκε</string>
+  <string name="notification_recording_finished_text">Αγγίξτε για προβολή %s</string>
+  <string name="notification_recording_error_title">Λάθος στην καταγραφή οθόνης</string>
+  <string name="notification_recording_error_text">%s</string>
+  <string name="notification_video_processing_title">Επεξεργασία αποθηκευμένου βίντεο</string>
+  <string name="notification_action_stop_recording">Παύση καταγραφής</string>
+  <string name="notification_action_show_touch">Προβολή αγγιγμάτων</string>
+  <string name="error_unable_to_create_directory">Αδύνατη η δημιουργία φακέλου αποθήκευσης.</string>
+  <string name="error_external_storage_unavailable">Δεν υπάρχει εξωτερικός χώρος αποθήκευσης.</string>
+  <string name="error_unable_to_start">Αδυναμία έναρξης καταγραφής.</string>
 
 </resources>
