@@ -3,9 +3,9 @@
 
     <string name="app_name">Screen recorder</string>
 
-    <string name="notification_recording_title">Reistrazione schermo in corso</string>
+    <string name="notification_recording_title">Registrazione schermo in corso</string>
 
-    <string name="notification_recording_finished_title">SRegistrazione video salvata</string>
+    <string name="notification_recording_finished_title">Registrazione video salvata</string>
     <string name="notification_recording_finished_text">Tocca per vedere %s</string>
 
     <string name="notification_recording_error_title">Errore screen recorder</string>
