@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schermopname</string>
+
+    <string name="notification_recording_title">Schermopname wordt uitgevoerd</string>
+
+    <string name="notification_recording_finished_title">Schermopname bewaard</string>
+    <string name="notification_recording_finished_text">Opname %s bekijken</string>
+
+    <string name="notification_recording_error_title">Fout in Schermopname</string>
+    <string name="notification_recording_error_text">%s</string>
+
+    <string name="notification_video_processing_title">Opname verwerken</string>
+
+    <string name="notification_action_stop_recording">Opname stoppen</string>
+    <string name="notification_action_show_touch">Aanraking weergeven</string>
+
+    <string name="error_unable_to_create_directory">Kan doelmap niet aanmaken.</string>
+    <string name="error_external_storage_unavailable">Geen externe opslag beschikbaar.</string>
+    <string name="error_unable_to_start">Kan opname niet starten.</string>
+
+</resources>
