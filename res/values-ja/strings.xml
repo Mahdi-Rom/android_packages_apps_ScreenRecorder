@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">画面の録画</string>
+
+    <string name="notification_recording_title">画面を録画中です</string>
+
+    <string name="notification_recording_finished_title">映像を保存しました</string>
+    <string name="notification_recording_finished_text">タップで%sを再生</string>
+
+    <string name="notification_recording_error_title">録画エラー</string>
+    <string name="notification_recording_error_text">%s</string>
+
+    <string name="notification_video_processing_title">記録した映像を処理中です</string>
+
+    <string name="notification_action_stop_recording">録画を停止</string>
+    <string name="notification_action_show_touch">タップで再生</string>
+
+    <string name="error_unable_to_create_directory">出力ディレクトリを作成できません</string>
+    <string name="error_external_storage_unavailable">使用可能な外部ストレージがありません</string>
+    <string name="error_unable_to_start">録画を開始することができません</string>
+
+</resources>
