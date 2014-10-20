@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grabador de Pantalla</string>
+    <string name="notification_recording_title">Grabación de pantalla en curso</string>
+    <string name="notification_recording_finished_title">Grabación de pantalla guardada</string>
+    <string name="notification_recording_finished_text">Tocar para ver %s</string>
+    <string name="notification_recording_error_title">Error en el grabador de pantalla</string>
+    <string name="notification_recording_error_text">%s</string>
+    <string name="notification_video_processing_title">Procesando el video grabado</string>
+    <string name="notification_action_stop_recording">Dejar de grabar</string>
+    <string name="notification_action_show_touch">Mostrar las pulsaciónes</string>
+    <string name="error_unable_to_create_directory">Incapaz de crear el directorio de salida.</string>
+    <string name="error_external_storage_unavailable">No hay memoria externa disponible.</string>
+    <string name="error_unable_to_start">No se puede iniciar la grabación.</string>
+
+</resources>
