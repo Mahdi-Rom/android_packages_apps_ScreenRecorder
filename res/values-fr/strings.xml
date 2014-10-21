@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Enregistreur d\'écran</string>
+
+    <string name="notification_recording_title">Enregistrement de l\'écran en cours</string>
+
+    <string name="notification_recording_finished_title">Enregistrement d\'écran sauvegardé</string>
+    <string name="notification_recording_finished_text">Touchez pour afficher %s</string>
+
+    <string name="notification_recording_error_title">Erreur d\'enregistrement de l\'écran</string>
+    <string name="notification_recording_error_text">%s</string>
+
+    <string name="notification_video_processing_title">Traitement vidéo enregistrée</string>
+
+    <string name="notification_action_stop_recording">Arrêter l\'enregistrement</string>
+    <string name="notification_action_show_touch">Pour afficher toucher</string>
+
+    <string name="error_unable_to_create_directory">Impossible de créer le répertoire de sortie.</string>
+    <string name="error_external_storage_unavailable">Aucun stockage externe disponible.</string>
+    <string name="error_unable_to_start">Impossible de démarrer l\'enregistrement.</string>
+
+</resources>
